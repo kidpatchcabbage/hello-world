@@ -1,2 +1,2 @@
 # hello-world
-My firt Git
+My first Git
